@@ -1,0 +1,15 @@
+Author: Dylan Yin
+Student ID: 101257186
+
+Purpose: A randomized simulation of the two heroes' (Timothy and Harold) escape from the pit. 
+         View 'Purpose' and 'Usage' in 'main.cc' for further details
+
+Files: main.cc Escape.cc Hero.cc Participant.cc MoveBehaviour.cc Ninja.cc Snorc.cc random.cc 
+    defs.h Escape.h Hero.h Participant.h MoveBehaviour.h Ninja.h Snorc.h List.h Makefile README
+    
+Instructions: 
+Run in a linux environment. Enter the directory with the necessary files. 
+
+Enter "make" into the terminal.
+
+Enter "./a5" next. This will launch the simulation
